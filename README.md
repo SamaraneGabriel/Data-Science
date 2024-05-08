@@ -1,6 +1,6 @@
 # Data Science - Machine Learning
 
-**ENGLISH**
+**English**
 
     Hi! My name is Gabriel Samarane and this is my repository for all sorts of Data Science, Data Analysis and Machine Learning projects.
     The main objective of this repository is to serve not only as my curriculum with regards to the Data Analysis world as a whole, but also 
